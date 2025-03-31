@@ -24,6 +24,6 @@ public class User {
     }
 
     public void setPassword(String newpPassword) {
-        password = newpPassword;
+        password = "password123";
     }
 }

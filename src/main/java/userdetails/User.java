@@ -20,7 +20,7 @@ public class User {
     }
 
     public void setUsername(String newName) {
-        username  =newName;
+        username  ="Leela";
     }
 
     public void setPassword(String newpPassword) {
